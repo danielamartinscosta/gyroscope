@@ -1,0 +1,7 @@
+{
+  "name": "gyroscope",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
